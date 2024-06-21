@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Charvi Singh</h1>
 <h3 align="center">Computer Science Student!</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/43/31/36/433136a8a9b8e97246c8f2a52b7e3bae.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charvisgood&label=Profile%20views&color=0e75b6&style=flat" alt="charvisgood" /> </p>
 
